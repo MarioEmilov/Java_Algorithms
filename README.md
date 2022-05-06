@@ -29,6 +29,3 @@ __________________________________________________
 3. Graphs Strongly Connected Components, Max Flow
 4. Dynamic Programming Advanced
 5. Amortization and Problem Classification (P, NP, NP-completeness, Reductions)
-
-After that I received this Certificate:
---------------------------------------------------
