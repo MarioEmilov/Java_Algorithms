@@ -18,8 +18,6 @@ __________________________________________________
 4. Graph Theory, Traversal and Shortest Paths
 5. Introduction to Dynamic Programming
 
-After that I received this Certificate:
---------------------------------------------------
 
 <h2 align="center">2. The main topics of Java Algorithms Advanced was:</h2>
 __________________________________________________
